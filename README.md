@@ -7,6 +7,7 @@ A collection about rust gamedev resources. PRs welcome.
 - [Game Engines](#game-engines)
 - [Graphics](#graphics)
 - [Physics](#physics)
+- [Games](#games)
 - [Bevy Engine](#bevy-engine)
   - [Books](#books)
   - [Tutorials](#tutorials)
@@ -25,10 +26,10 @@ A collection about rust gamedev resources. PRs welcome.
 - [The Nomicon](https://doc.rust-lang.org/nomicon/): The Dark Arts of Advanced and Unsafe Rust Programming. ![stars](https://img.shields.io/github/stars/rust-lang/nomicon)
 
 ## Game Engines
-- [bevy](https://bevyengine.org/): A refreshingly simple data-driven game engine built in Rust. ![stars](https://img.shields.io/github/stars/bevyengine/bevy) ![crates.io version](https://img.shields.io/crates/v/bevy.svg) ![crates.io downloads](https://img.shields.io/crates/d/bevy.svg)
-- [fyrox](https://fyrox.rs/): A feature-rich, production-ready, general purpose 2D/3D game engine written in Rust with a scene editor. ![stars](https://img.shields.io/github/stars/FyroxEngine/Fyrox) ![crates.io version](https://img.shields.io/crates/v/fyrox.svg) ![crates.io downloads](https://img.shields.io/crates/d/fyrox.svg)
-- [piston](https://www.piston.rs/): A modular game engine written in Rust. ![stars](https://img.shields.io/github/stars/PistonDevelopers/piston) ![crates.io version](https://img.shields.io/crates/v/piston.svg) ![crates.io downloads](https://img.shields.io/crates/d/piston.svg)
-- [godot-rust](https://godot-rust.github.io/): Rust bindings for Godot 3. ![stars](https://img.shields.io/github/stars/godot-rust/gdnative) ![crates.io version](https://img.shields.io/crates/v/gdnative.svg) ![crates.io downloads](https://img.shields.io/crates/d/gdnative.svg)
+- [bevy](https://github.com/bevyengine/bevy): A refreshingly simple data-driven game engine built in Rust. ![stars](https://img.shields.io/github/stars/bevyengine/bevy) ![crates.io version](https://img.shields.io/crates/v/bevy.svg) ![crates.io downloads](https://img.shields.io/crates/d/bevy.svg)
+- [fyrox](https://github.com/FyroxEngine/Fyrox): A feature-rich, production-ready, general purpose 2D/3D game engine written in Rust with a scene editor. ![stars](https://img.shields.io/github/stars/FyroxEngine/Fyrox) ![crates.io version](https://img.shields.io/crates/v/fyrox.svg) ![crates.io downloads](https://img.shields.io/crates/d/fyrox.svg)
+- [piston](https://github.com/PistonDevelopers/piston): A modular game engine written in Rust. ![stars](https://img.shields.io/github/stars/PistonDevelopers/piston) ![crates.io version](https://img.shields.io/crates/v/piston.svg) ![crates.io downloads](https://img.shields.io/crates/d/piston.svg)
+- [godot-rust](https://github.com/godot-rust/gdnative): Rust bindings for Godot 3. ![stars](https://img.shields.io/github/stars/godot-rust/gdnative) ![crates.io version](https://img.shields.io/crates/v/gdnative.svg) ![crates.io downloads](https://img.shields.io/crates/d/gdnative.svg)
 
 ## Graphics
 - [wgpu](https://github.com/gfx-rs/wgpu): Safe and portable GPU abstraction in Rust, implementing WebGPU API. ![stars](https://img.shields.io/github/stars/gfx-rs/wgpu) ![crates.io version](https://img.shields.io/crates/v/wgpu.svg) ![crates.io downloads](https://img.shields.io/crates/d/wgpu.svg)
@@ -37,6 +38,9 @@ A collection about rust gamedev resources. PRs welcome.
 
 ## Physics
 - [rapier](https://github.com/dimforge/rapier): Rapier is a set of 2D and 3D physics engines for games, animation, and robotics. ![stars](https://img.shields.io/github/stars/dimforge/rapier) ![crates.io version](https://img.shields.io/crates/v/rapier3d.svg) ![crates.io downloads](https://img.shields.io/crates/d/rapier3d.svg)
+
+## Games
+- [veloren](https://github.com/veloren/veloren): An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World. ![stars](https://img.shields.io/github/stars/veloren/veloren)
 
 ## Bevy Engine
 ### Books
