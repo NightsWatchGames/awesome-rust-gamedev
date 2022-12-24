@@ -18,29 +18,31 @@ A collection about rust gamedev resources.
 - [Rust GameDev WG](https://gamedev.rs/): Official Rust game development working group blog site.
 
 ## Game Engines
-- [bevy](https://bevyengine.org/): A refreshingly simple data-driven game engine built in Rust. ![stars](https://img.shields.io/github/stars/bevyengine/bevy?style=flat) ![crates.io version](https://img.shields.io/crates/v/bevy.svg) ![crates.io downloads](https://img.shields.io/crates/d/bevy.svg)
-- [fyrox](https://fyrox.rs/): A feature-rich, production-ready, general purpose 2D/3D game engine written in Rust with a scene editor. ![stars](https://img.shields.io/github/stars/FyroxEngine/Fyrox?style=flat) ![crates.io version](https://img.shields.io/crates/v/fyrox.svg) ![crates.io downloads](https://img.shields.io/crates/d/fyrox.svg)
+- [bevy](https://bevyengine.org/): A refreshingly simple data-driven game engine built in Rust. ![stars](https://img.shields.io/github/stars/bevyengine/bevy) ![crates.io version](https://img.shields.io/crates/v/bevy.svg) ![crates.io downloads](https://img.shields.io/crates/d/bevy.svg)
+- [fyrox](https://fyrox.rs/): A feature-rich, production-ready, general purpose 2D/3D game engine written in Rust with a scene editor. ![stars](https://img.shields.io/github/stars/FyroxEngine/Fyrox) ![crates.io version](https://img.shields.io/crates/v/fyrox.svg) ![crates.io downloads](https://img.shields.io/crates/d/fyrox.svg)
 
 ## Graphics
-- [wgpu](https://github.com/gfx-rs/wgpu): Safe and portable GPU abstraction in Rust, implementing WebGPU API. ![stars](https://img.shields.io/github/stars/gfx-rs/wgpu?style=flat) ![crates.io version](https://img.shields.io/crates/v/wgpu.svg) ![crates.io downloads](https://img.shields.io/crates/d/wgpu.svg)
+- [wgpu](https://github.com/gfx-rs/wgpu): Safe and portable GPU abstraction in Rust, implementing WebGPU API. ![stars](https://img.shields.io/github/stars/gfx-rs/wgpu) ![crates.io version](https://img.shields.io/crates/v/wgpu.svg) ![crates.io downloads](https://img.shields.io/crates/d/wgpu.svg)
+- [learn-wgpu](https://sotrh.github.io/learn-wgpu/): Guide for using gfx-rs's wgpu library. ![stars](https://img.shields.io/github/stars/sotrh/learn-wgpu)
 
 ## Physics
-- [rapier](https://github.com/dimforge/rapier): Rapier is a set of 2D and 3D physics engines for games, animation, and robotics. ![stars](https://img.shields.io/github/stars/dimforge/rapier?style=flat) ![crates.io version](https://img.shields.io/crates/v/rapier3d.svg) ![crates.io downloads](https://img.shields.io/crates/d/rapier3d.svg)
+- [rapier](https://github.com/dimforge/rapier): Rapier is a set of 2D and 3D physics engines for games, animation, and robotics. ![stars](https://img.shields.io/github/stars/dimforge/rapier) ![crates.io version](https://img.shields.io/crates/v/rapier3d.svg) ![crates.io downloads](https://img.shields.io/crates/d/rapier3d.svg)
 
 ## Bevy Engine
-### Tutorials
-- [Creating a Snake Clone in Rust, with Bevy](https://mbuffett.com/posts/bevy-snake-tutorial/)
 ### Books
 - [official book](https://bevyengine.org/learn/book/introduction/)
-- [bevy-cheatbook](https://bevy-cheatbook.github.io/): This is a reference-style book for the Bevy game engine.
+- [bevy-cheatbook](https://bevy-cheatbook.github.io/): This is a reference-style book for the Bevy game engine. ![stars](https://img.shields.io/github/stars/bevy-cheatbook/bevy-cheatbook)
+### Tutorials
+- [Creating a Snake Clone in Rust, with Bevy](https://mbuffett.com/posts/bevy-snake-tutorial/)
+- [Extreme Bevy: Making a p2p web game with rust and rollback netcode](https://johanhelsing.studio/posts/extreme-bevy)
 ### Ecosystem
-- [bevy_rapier](https://github.com/dimforge/bevy_rapier): 2D and 3D physics engines for the Bevy game engine. ![stars](https://img.shields.io/github/stars/dimforge/bevy_rapier?style=flat) ![crates.io version](https://img.shields.io/crates/v/bevy_rapier2d.svg) ![crates.io downloads](https://img.shields.io/crates/d/bevy_rapier2d.svg)
-- [bevy_ecs_tilemap](https://github.com/StarArawn/bevy_ecs_tilemap): A tilemap rendering crate for bevy which is more ECS friendly. ![stars](https://img.shields.io/github/stars/StarArawn/bevy_ecs_tilemap?style=flat) ![crates.io version](https://img.shields.io/crates/v/bevy_ecs_tilemap.svg) ![crates.io downloads](https://img.shields.io/crates/d/bevy_ecs_tilemap.svg)
-- [bevy_ecs_ldtk](https://github.com/Trouv/bevy_ecs_ldtk): ECS-friendly ldtk plugin for bevy, leveraging bevy_ecs_tilemap. ![stars](https://img.shields.io/github/stars/Trouv/bevy_ecs_ldtk?style=flat) ![crates.io version](https://img.shields.io/crates/v/bevy_ecs_ldtk.svg) ![crates.io downloads](https://img.shields.io/crates/d/bevy_ecs_ldtk.svg)
-- [bevy_mod_picking](https://github.com/aevyrie/bevy_mod_picking): Unofficial 3D mouse picking plugin for Bevy. ![stars](https://img.shields.io/github/stars/aevyrie/bevy_mod_picking?style=flat) ![crates.io version](https://img.shields.io/crates/v/bevy_mod_picking.svg) ![crates.io downloads](https://img.shields.io/crates/d/bevy_mod_picking.svg)
-- [bevy_mod_raycast](https://github.com/aevyrie/bevy_mod_raycast): Unofficial plugin for raycasting in Bevy. ![stars](https://img.shields.io/github/stars/aevyrie/bevy_mod_raycast?style=flat) ![crates.io version](https://img.shields.io/crates/v/bevy_mod_raycast.svg) ![crates.io downloads](https://img.shields.io/crates/d/bevy_mod_raycast.svg)
-- [bevy-inspector-egui](https://github.com/jakobhellermann/bevy-inspector-egui): Inspector plugin for the bevy game engine. ![stars](https://img.shields.io/github/stars/jakobhellermann/bevy-inspector-egui?style=flat) ![crates.io version](https://img.shields.io/crates/v/bevy-inspector-egui.svg) ![crates.io downloads](https://img.shields.io/crates/d/bevy-inspector-egui.svg)
-- [bevy_egui](https://github.com/mvlabat/bevy_egui): This crate provides a Egui integration for the Bevy game engine. ![stars](https://img.shields.io/github/stars/mvlabat/bevy_egui?style=flat) ![crates.io version](https://img.shields.io/crates/v/bevy_egui.svg) ![crates.io downloads](https://img.shields.io/crates/d/bevy_egui.svg)
+- [bevy_rapier](https://github.com/dimforge/bevy_rapier): 2D and 3D physics engines for the Bevy game engine. ![stars](https://img.shields.io/github/stars/dimforge/bevy_rapier) ![crates.io version](https://img.shields.io/crates/v/bevy_rapier2d.svg) ![crates.io downloads](https://img.shields.io/crates/d/bevy_rapier2d.svg)
+- [bevy_ecs_tilemap](https://github.com/StarArawn/bevy_ecs_tilemap): A tilemap rendering crate for bevy which is more ECS friendly. ![stars](https://img.shields.io/github/stars/StarArawn/bevy_ecs_tilemap) ![crates.io version](https://img.shields.io/crates/v/bevy_ecs_tilemap.svg) ![crates.io downloads](https://img.shields.io/crates/d/bevy_ecs_tilemap.svg)
+- [bevy_ecs_ldtk](https://github.com/Trouv/bevy_ecs_ldtk): ECS-friendly ldtk plugin for bevy, leveraging bevy_ecs_tilemap. ![stars](https://img.shields.io/github/stars/Trouv/bevy_ecs_ldtk) ![crates.io version](https://img.shields.io/crates/v/bevy_ecs_ldtk.svg) ![crates.io downloads](https://img.shields.io/crates/d/bevy_ecs_ldtk.svg)
+- [bevy_mod_picking](https://github.com/aevyrie/bevy_mod_picking): Unofficial 3D mouse picking plugin for Bevy. ![stars](https://img.shields.io/github/stars/aevyrie/bevy_mod_picking) ![crates.io version](https://img.shields.io/crates/v/bevy_mod_picking.svg) ![crates.io downloads](https://img.shields.io/crates/d/bevy_mod_picking.svg)
+- [bevy_mod_raycast](https://github.com/aevyrie/bevy_mod_raycast): Unofficial plugin for raycasting in Bevy. ![stars](https://img.shields.io/github/stars/aevyrie/bevy_mod_raycast) ![crates.io version](https://img.shields.io/crates/v/bevy_mod_raycast.svg) ![crates.io downloads](https://img.shields.io/crates/d/bevy_mod_raycast.svg)
+- [bevy-inspector-egui](https://github.com/jakobhellermann/bevy-inspector-egui): Inspector plugin for the bevy game engine. ![stars](https://img.shields.io/github/stars/jakobhellermann/bevy-inspector-egui) ![crates.io version](https://img.shields.io/crates/v/bevy-inspector-egui.svg) ![crates.io downloads](https://img.shields.io/crates/d/bevy-inspector-egui.svg)
+- [bevy_egui](https://github.com/mvlabat/bevy_egui): This crate provides a Egui integration for the Bevy game engine. ![stars](https://img.shields.io/github/stars/mvlabat/bevy_egui) ![crates.io version](https://img.shields.io/crates/v/bevy_egui.svg) ![crates.io downloads](https://img.shields.io/crates/d/bevy_egui.svg)
 ### Communities
 - [Discord](https://discord.gg/bevy)
 - [Github Discussions](https://github.com/bevyengine/bevy/discussions)
