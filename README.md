@@ -35,12 +35,15 @@ A collection about rust gamedev resources. PRs welcome.
 - [wgpu](https://github.com/gfx-rs/wgpu): Safe and portable GPU abstraction in Rust, implementing WebGPU API. ![stars](https://img.shields.io/github/stars/gfx-rs/wgpu) ![crates.io version](https://img.shields.io/crates/v/wgpu.svg) ![crates.io downloads](https://img.shields.io/crates/d/wgpu.svg)
 - [learn-wgpu](https://sotrh.github.io/learn-wgpu/): Guide for using gfx-rs's wgpu library. ![stars](https://img.shields.io/github/stars/sotrh/learn-wgpu)
 - [vulkano](https://github.com/vulkano-rs/vulkano): Safe and rich Rust wrapper around the Vulkan API. ![stars](https://img.shields.io/github/stars/vulkano-rs/vulkano) ![crates.io version](https://img.shields.io/crates/v/vulkano.svg) ![crates.io downloads](https://img.shields.io/crates/d/vulkano.svg)
+- [rust-gpu](https://github.com/EmbarkStudios/rust-gpu): Making Rust a first-class language and ecosystem for GPU shaders. ![stars](https://img.shields.io/github/stars/EmbarkStudios/rust-gpu)
+- [lyon](https://github.com/nical/lyon): 2D graphics rendering on the GPU in rust using path tessellation. ![stars](https://img.shields.io/github/stars/nical/lyon) ![crates.io version](https://img.shields.io/crates/v/lyon.svg) ![crates.io downloads](https://img.shields.io/crates/d/lyon.svg)
 
 ## Physics
 - [rapier](https://github.com/dimforge/rapier): Rapier is a set of 2D and 3D physics engines for games, animation, and robotics. ![stars](https://img.shields.io/github/stars/dimforge/rapier) ![crates.io version](https://img.shields.io/crates/v/rapier3d.svg) ![crates.io downloads](https://img.shields.io/crates/d/rapier3d.svg)
 
 ## Games
 - [veloren](https://github.com/veloren/veloren): An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World. ![stars](https://img.shields.io/github/stars/veloren/veloren)
+- [jumpy](https://github.com/fishfolk/jumpy): Tactical 2D shooter in fishy pixels style. Made with Rust-lang and Bevy. ![stars](https://img.shields.io/github/stars/fishfolk/jumpy)
 
 ## Bevy Engine
 ### Books
