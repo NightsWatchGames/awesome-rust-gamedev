@@ -30,6 +30,7 @@ A collection about rust gamedev resources. PRs welcome.
 - [fyrox](https://github.com/FyroxEngine/Fyrox): A feature-rich, production-ready, general purpose 2D/3D game engine written in Rust with a scene editor. ![stars](https://img.shields.io/github/stars/FyroxEngine/Fyrox) ![crates.io version](https://img.shields.io/crates/v/fyrox.svg) ![crates.io downloads](https://img.shields.io/crates/d/fyrox.svg)
 - [piston](https://github.com/PistonDevelopers/piston): A modular game engine written in Rust. ![stars](https://img.shields.io/github/stars/PistonDevelopers/piston) ![crates.io version](https://img.shields.io/crates/v/piston.svg) ![crates.io downloads](https://img.shields.io/crates/d/piston.svg)
 - [godot-rust](https://github.com/godot-rust/gdnative): Rust bindings for Godot 3. ![stars](https://img.shields.io/github/stars/godot-rust/gdnative) ![crates.io version](https://img.shields.io/crates/v/gdnative.svg) ![crates.io downloads](https://img.shields.io/crates/d/gdnative.svg)
+- [ggez](https://github.com/ggez/ggez): Rust library to create a Good Game Easily. ![stars](https://img.shields.io/github/stars/ggez/ggez) ![crates.io version](https://img.shields.io/crates/v/ggez.svg) ![crates.io downloads](https://img.shields.io/crates/d/ggez.svg)
 
 ## Graphics
 - [wgpu](https://github.com/gfx-rs/wgpu): Safe and portable GPU abstraction in Rust, implementing WebGPU API. ![stars](https://img.shields.io/github/stars/gfx-rs/wgpu) ![crates.io version](https://img.shields.io/crates/v/wgpu.svg) ![crates.io downloads](https://img.shields.io/crates/d/wgpu.svg)
