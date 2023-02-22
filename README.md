@@ -53,6 +53,7 @@ A collection about rust gamedev resources. PRs welcome.
 ### Tutorials
 - [Official examples](https://github.com/bevyengine/bevy/tree/latest/examples#examples)
 - [Creating a Snake Clone in Rust, with Bevy](https://mbuffett.com/posts/bevy-snake-tutorial/)
+- [Platformer in Bevy](https://youtube.com/playlist?list=PL6uRoaCCw7GMujF_6PtzvkrZBlB_ZKWyZ)
 - [Extreme Bevy: Making a p2p web game with rust and rollback netcode](https://johanhelsing.studio/posts/extreme-bevy)
 ### Ecosystem
 - [bevy_rapier](https://github.com/dimforge/bevy_rapier): 2D and 3D physics engines for the Bevy game engine. ![stars](https://img.shields.io/github/stars/dimforge/bevy_rapier) ![crates.io version](https://img.shields.io/crates/v/bevy_rapier2d.svg) ![crates.io downloads](https://img.shields.io/crates/d/bevy_rapier2d.svg)
