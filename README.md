@@ -70,5 +70,4 @@ A collection about rust gamedev resources. PRs welcome.
 - [Reddit](https://www.reddit.com/r/bevy)
 ### Games
 - [Bevy Jam #2 Submissions](https://itch.io/jam/bevy-jam-2/entries)
-- [tetris](https://github.com/NightsWatchGames/tetris)
-- [rubiks-cube](https://github.com/NightsWatchGames/rubiks-cube)
+- [Games in Bevy Assets](https://bevyengine.org/assets/#games)
