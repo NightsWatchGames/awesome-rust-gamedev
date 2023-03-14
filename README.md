@@ -13,7 +13,7 @@ A collection about rust gamedev resources. PRs welcome.
   - [Tutorials](#tutorials)
   - [Ecosystem](#ecosystem)
   - [Communities](#communities)
-  - [Games](#games)
+  - [Games](#games-1)
 
 ## General
 - [Are we game yet?](https://arewegameyet.rs/): This site tracks the state of the ecosystem for Game Development in Rust.
