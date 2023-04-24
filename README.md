@@ -69,6 +69,7 @@ A collection about rust gamedev resources. PRs welcome.
 - [Github Discussions](https://github.com/bevyengine/bevy/discussions)
 - [Reddit](https://www.reddit.com/r/bevy)
 ### Games
+- [Bevy Jam #3 Submissions](https://itch.io/jam/bevy-jam-3/entries)
 - [Bevy Jam #2 Submissions](https://itch.io/jam/bevy-jam-2/entries)
 - [Games in Bevy Assets](https://bevyengine.org/assets/#games)
 - [Cargo Space](https://johanhelsing.studio/cargospace): A coop 2d space game where you build a ship and fly it through space looking for new parts, fighting pirates and the environment.
