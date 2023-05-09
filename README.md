@@ -14,6 +14,7 @@ A collection about rust gamedev resources. PRs welcome.
   - [Ecosystem](#ecosystem)
   - [Communities](#communities)
   - [Games](#games-1)
+- [Other Awesome Lists](#other-awesome-lists)
 
 ## General
 - [Are we game yet?](https://arewegameyet.rs/): This site tracks the state of the ecosystem for Game Development in Rust.
@@ -75,3 +76,11 @@ A collection about rust gamedev resources. PRs welcome.
 - [Cargo Space](https://johanhelsing.studio/cargospace): A coop 2d space game where you build a ship and fly it through space looking for new parts, fighting pirates and the environment.
 - [Tunnet](https://store.steampowered.com/app/2286390/Tunnet/): Build, debug and optimize a computer network in an underground facility.
 - [Molecoole](https://store.steampowered.com/app/1792170/Molecoole/): An action shooter roguelike.
+
+## Other Awesome Lists
+- [awesome-gamedev](https://github.com/Calinou/awesome-gamedev): A collection of free software and free culture resources for making amazing games.
+- [awesome-learn-gamedev](https://github.com/notpresident35/awesome-learn-gamedev): A curated collection of game development learning resources.
+- [games](https://github.com/leereilly/games): A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
+- [awesome-one-person-games](https://github.com/Yonaba/awesome-one-person-games): A curated list of successul games, made (quite) entirely by a lone gamedev.
+- [magictools](https://github.com/ellisonleao/magictools): A list of Game Development resources to make magic happen.
+- [GameNetworkingResources](https://github.com/ThusSpokeNomad/GameNetworkingResources): A Curated List of Game Network Programming Resources.
