@@ -21,7 +21,7 @@ A collection about rust gamedev resources. PRs welcome.
 - [Rust GameDev WG](https://gamedev.rs/): Official Rust game development working group blog site.
 
 ## Rust Programming
-- [Official Book](https://doc.rust-lang.org/book/) ![stars](https://img.shields.io/github/stars/rust-lang/book)
+- [Official Book](https://doc.rust-lang.org/book/) ![stars](https://img.shields.io/github/stars/rust-lang/book) ([rust book with quizzes](https://rust-book.cs.brown.edu/))
 - [[Chinese] Rust语言圣经](https://course.rs/about-book.html) ![stars](https://img.shields.io/github/stars/sunface/rust-course)
 - [Aysnc Book](https://rust-lang.github.io/async-book/): Asynchronous Programming in Rust. ![stars](https://img.shields.io/github/stars/rust-lang/async-book)
 - [The Nomicon](https://doc.rust-lang.org/nomicon/): The Dark Arts of Advanced and Unsafe Rust Programming. ![stars](https://img.shields.io/github/stars/rust-lang/nomicon)
