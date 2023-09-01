@@ -44,6 +44,7 @@ A collection about rust gamedev resources. PRs welcome.
 
 ## Physics
 - [rapier](https://github.com/dimforge/rapier): Rapier is a set of 2D and 3D physics engines for games, animation, and robotics. ![stars](https://img.shields.io/github/stars/dimforge/rapier) ![crates.io version](https://img.shields.io/crates/v/rapier3d.svg) ![crates.io downloads](https://img.shields.io/crates/d/rapier3d.svg)
+- [bevy_xpbd](https://github.com/Jondolf/bevy_xpbd): 2D and 3D physics engine based on Extended Position Based Dynamics for Bevy. ![stars](https://img.shields.io/github/stars/Jondolf/bevy_xpbd) ![crates.io version](https://img.shields.io/crates/v/bevy_xpbd_2d.svg) ![crates.io downloads](https://img.shields.io/crates/d/bevy_xpbd_2d.svg)
 
 ## Games
 - [veloren](https://github.com/veloren/veloren): An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World. ![stars](https://img.shields.io/github/stars/veloren/veloren)
