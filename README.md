@@ -54,6 +54,7 @@ A collection about rust gamedev resources. PRs welcome.
 ### Books
 - [official book](https://bevyengine.org/learn/book/introduction/)
 - [bevy-cheatbook](https://bevy-cheatbook.github.io/): This is a reference-style book for the Bevy game engine. ![stars](https://img.shields.io/github/stars/bevy-cheatbook/bevy-cheatbook)
+- [taintedcoders.com](https://taintedcoders.com/)
 ### Tutorials
 - [Official examples](https://github.com/bevyengine/bevy/tree/latest/examples#examples)
 - [Creating a Snake Clone in Rust, with Bevy](https://mbuffett.com/posts/bevy-snake-tutorial/)
