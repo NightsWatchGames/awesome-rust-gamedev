@@ -22,6 +22,7 @@ A collection about rust gamedev resources. PRs welcome.
 
 ## Rust Programming
 - [Official Book](https://doc.rust-lang.org/book/) ![stars](https://img.shields.io/github/stars/rust-lang/book) ([rust book with quizzes](https://rust-book.cs.brown.edu/))
+- [google/comprehensive-rust](https://github.com/google/comprehensive-rust): This is the Rust course used by the Android team at Google. ![stars](https://img.shields.io/github/stars/google/comprehensive-rust)
 - [[Chinese] Rust语言圣经](https://course.rs/about-book.html) ![stars](https://img.shields.io/github/stars/sunface/rust-course)
 - [Aysnc Book](https://rust-lang.github.io/async-book/): Asynchronous Programming in Rust. ![stars](https://img.shields.io/github/stars/rust-lang/async-book)
 - [The Nomicon](https://doc.rust-lang.org/nomicon/): The Dark Arts of Advanced and Unsafe Rust Programming. ![stars](https://img.shields.io/github/stars/rust-lang/nomicon)
