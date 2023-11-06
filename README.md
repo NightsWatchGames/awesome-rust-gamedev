@@ -87,6 +87,8 @@ A collection about rust gamedev resources. PRs welcome.
 - [Tunnet](https://store.steampowered.com/app/2286390/Tunnet/): Build, debug and optimize a computer network in an underground facility.
 - [Molecoole](https://store.steampowered.com/app/1792170/Molecoole/): An action shooter roguelike.
 - [Tiny Glade](https://store.steampowered.com/app/2198150/Tiny_Glade/): A small relaxing game about doodling castles.
+- [Roids](https://store.steampowered.com/app/2248000/Roids/): A PVE mining and survival game in space.
+- [Hytopia](https://hytopia.com/): A collaborative and independent video game.
 
 ## Other Awesome Lists
 - [awesome-gamedev](https://github.com/Calinou/awesome-gamedev): A collection of free software and free culture resources for making amazing games.
