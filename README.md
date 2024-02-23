@@ -91,6 +91,9 @@ A collection about rust gamedev resources. PRs welcome.
 - [Hytopia](https://hytopia.com/): A collaborative and independent video game.
 - [Time of Progress](https://store.steampowered.com/app/2628450/Times_of_Progress/): A City Builder set during the Industrial Revolution.
 
+### Internals
+- [Everything You Never Wanted To Know About Rendering](https://gist.github.com/NthTensor/9d73a5ed75109d036fceb235b8f536a5)
+
 ## Other Awesome Lists
 - [awesome-gamedev](https://github.com/Calinou/awesome-gamedev): A collection of free software and free culture resources for making amazing games.
 - [awesome-learn-gamedev](https://github.com/notpresident35/awesome-learn-gamedev): A curated collection of game development learning resources.
