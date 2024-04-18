@@ -94,6 +94,7 @@ learning materials
 - [Hytopia](https://hytopia.com/): A collaborative and independent video game.
 - [Time of Progress](https://store.steampowered.com/app/2628450/Times_of_Progress/): A City Builder set during the Industrial Revolution.
 - [Zoolitaire](https://apps.apple.com/us/app/zoolitaire/id6479218498): Based on the family favorite board game: Peg Solitaire but with cute zoo animals and many different levels and scenarios to challenge young and old.
+- [GLOW](https://store.steampowered.com/app/2896110/GLOW/): GLOW is an addictive physics-based arcade game that will challenge you to your limits.
 
 ### Internals
 - [Everything You Never Wanted To Know About Rendering](https://gist.github.com/NthTensor/9d73a5ed75109d036fceb235b8f536a5)
