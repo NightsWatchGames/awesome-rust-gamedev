@@ -60,11 +60,14 @@ learning materials
 - [official book](https://bevyengine.org/learn/book/introduction/)
 - [bevy-cheatbook](https://bevy-cheatbook.github.io/): This is a reference-style book for the Bevy game engine. ![stars](https://img.shields.io/github/stars/bevy-cheatbook/bevy-cheatbook)
 - [taintedcoders.com](https://taintedcoders.com/)
+- [Bevy Developer Network @ HackMD](https://hackmd.io/@bevy): An unoffical community effort to document and explain bevy's design choices.
+
 ### Tutorials
 - [Official examples](https://github.com/bevyengine/bevy/tree/latest/examples#examples)
 - [Creating a Snake Clone in Rust, with Bevy](https://mbuffett.com/posts/bevy-snake-tutorial/)
 - [Platformer in Bevy](https://youtube.com/playlist?list=PL6uRoaCCw7GMujF_6PtzvkrZBlB_ZKWyZ)
 - [Extreme Bevy: Making a p2p web game with rust and rollback netcode](https://johanhelsing.studio/posts/extreme-bevy)
+
 ### Ecosystem
 | Category | Popular Plugins |
 | ---------| --------------- |
@@ -95,9 +98,6 @@ learning materials
 - [Time of Progress](https://store.steampowered.com/app/2628450/Times_of_Progress/): A City Builder set during the Industrial Revolution.
 - [Zoolitaire](https://apps.apple.com/us/app/zoolitaire/id6479218498): Based on the family favorite board game: Peg Solitaire but with cute zoo animals and many different levels and scenarios to challenge young and old.
 - [GLOW](https://store.steampowered.com/app/2896110/GLOW/): GLOW is an addictive physics-based arcade game that will challenge you to your limits.
-
-### Internals
-- [Everything You Never Wanted To Know About Rendering](https://gist.github.com/NthTensor/9d73a5ed75109d036fceb235b8f536a5)
 
 ## Other Awesome Lists
 - [awesome-gamedev](https://github.com/Calinou/awesome-gamedev): A collection of free software and free culture resources for making amazing games.
