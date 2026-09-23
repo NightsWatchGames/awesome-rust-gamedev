@@ -69,6 +69,7 @@ learning materials
 - [Creating a Snake Clone in Rust, with Bevy](https://mbuffett.com/posts/bevy-snake-tutorial/)
 - [Platformer in Bevy](https://youtube.com/playlist?list=PL6uRoaCCw7GMujF_6PtzvkrZBlB_ZKWyZ)
 - [Extreme Bevy: Making a p2p web game with rust and rollback netcode](https://johanhelsing.studio/posts/extreme-bevy)
+- [TutorialSearch](https://tutorialsearch.io/?q=rust+gamedev) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 
 ### Ecosystem
 | Category | Popular Plugins |
