@@ -56,6 +56,7 @@ learning materials
 ## Games
 - [veloren](https://github.com/veloren/veloren): An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World. ![stars](https://img.shields.io/github/stars/veloren/veloren)
 - [jumpy](https://github.com/fishfolk/jumpy): Tactical 2D shooter in fishy pixels style. Made with Rust-lang and Bevy. ![stars](https://img.shields.io/github/stars/fishfolk/jumpy)
+- [thehumanbox](https://github.com/1homsi/thehumanbox): A browser civilization sandbox where tribes invent their own languages, cultures and beliefs. Rust compiled to WebAssembly. ![stars](https://img.shields.io/github/stars/1homsi/thehumanbox)
 
 ## Bevy Engine
 ### Books
