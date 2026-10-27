@@ -107,5 +107,6 @@ learning materials
 - [games](https://github.com/leereilly/games): A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [awesome-one-person-games](https://github.com/Yonaba/awesome-one-person-games): A curated list of successul games, made (quite) entirely by a lone gamedev.
 - [magictools](https://github.com/ellisonleao/magictools): A list of Game Development resources to make magic happen.
+- [RespawnStack](https://respawnstack.com): Curated directory of AI tools for game developers.
 - [GameNetworkingResources](https://github.com/ThusSpokeNomad/GameNetworkingResources): A Curated List of Game Network Programming Resources.
 - [awesome-rust](https://github.com/rust-unofficial/awesome-rust): A curated list of Rust code and resources.
